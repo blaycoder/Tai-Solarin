@@ -1549,7 +1549,7 @@ ol {
 }
 
 .navbar-brand img {
-  width: 170px;
+  width: 100px;
 }
 
 .mobile-menu-btn {
@@ -2147,7 +2147,7 @@ ol {
 }
 
 .hero-area .hero-inner.overlay::before {
-  opacity: 0.9;
+  opacity: 0.4;
   background: #081828;
 }
 
@@ -3467,7 +3467,7 @@ ol {
   }
 
   .header .logo img {
-    width: 150px;
+    width: 60px;
   }
 
   .header .search-form {
